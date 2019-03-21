@@ -1,21 +1,21 @@
 # Reversi
-Cmpt 225 game of Reversi
+This adaption of the popular game Reversi was created as an assignment for CMPT 225. The language used is C++. 
 
--> It allows a human to play against the computer.
 
--> It starts a game using the “Othello” board configuration.
+## Features: 
+- Human vs. Human matchups
+- Human vs. Computer matchups
+- Starts game using “Othello” board configuration
+- Displays all possible moves
+- Proper edge cases ensure the game never crashes with illegal moves
+- Displays piece-count for each player after a game
+- Displays Winner or if it was a Draw
 
--> It gives possible moves.
+## How to Run:
+1) Open terminal
+2) Navigate to where the project is downloaded
+3) Run the command 'make main' to compile code
+4) Rune the comand './main;
 
--> It reads input from cin, and never crashes on invalid input. If the user enters an illegal or nonsensical move, 
-   then the program should politely point out the problem.
-
--> When the game is over, it displays the piece-count for each player and says who won the game (or if it was a tie).
-
--> It correctly recognizes the end of the game.
-
-HOW to run using Terminal: 
-1) right click on downloaded file 
-2) open in terminal
-3) make main
-4) ./main
+## Author:
+Faraz Fazlalizadeh: www.farazf.com 
