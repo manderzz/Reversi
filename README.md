@@ -4,12 +4,12 @@ This adaption of the popular game Reversi was created as an assignment for CMPT 
 
 ## Features: 
 - Human vs. Human matchups
-- Human vs. Computer matchups
+- Human vs. A.I. matchups
 - Starts game using “Othello” board configuration
 - Displays all possible moves
-- Proper edge cases ensure the game never crashes with illegal moves
+- Validates every move made
 - Displays piece-count for each player after a game
-- Displays Winner or if it was a Draw
+- Displays Winner or Draw
 
 ## How to Run:
 1) Open terminal
